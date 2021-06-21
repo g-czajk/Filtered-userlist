@@ -3,18 +3,21 @@
 **Clone this repo:**
 
 ```
-  git clone https://gitlab.com/g-czajk/teacode-recruitment.git
+  git clone https://github.com/g-czajk/Filtered-userlist.git
 ```
+
 **Go to the project directory:**
 
 ```
    cd teacode-recruitment
 ```
+
 **Install dependencies:**
 
 ```
    npm install
 ```
+
 **Start dev server:**
 
 ```
