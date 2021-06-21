@@ -1,7 +1,7 @@
 {
-    "name": "teacode_challenge",
+    "name": "filtered-userlist",
     "version": "0.1.0",
-    "homepage": "https://github.com/g-czajk/Filtered-userlist",
+    "homepage": "https://g-czajk.github.io/Filtered-userlist/",
     "private": true,
     "dependencies": {
         "@material-ui/core": "^4.11.4",
