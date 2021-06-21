@@ -9,7 +9,7 @@
 **Go to the project directory:**
 
 ```
-   cd teacode-recruitment
+   cd Filtered-userlist
 ```
 
 **Install dependencies:**
