@@ -6,7 +6,6 @@ const UsersList = ({ data, selected, handleSelect, offset }) => {
         <ul className="users-list">
             {data &&
                 data
-
                     .sort((a, b) => a.last_name.localeCompare(b.last_name))
                     .map((user, index) => (
                         <SingleUser
