@@ -33,6 +33,11 @@ h1 {
     animation: spin 1s ease infinite;
 }
 
+.MuiPagination-root {
+    padding: 20px 0 20px 15px;
+    background-color: #fcfcfc;
+}
+
 @keyframes spin {
     to {
         -webkit-transform: translate(-50%, -50%) rotateZ(360deg);
