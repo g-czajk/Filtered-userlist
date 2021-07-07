@@ -91,7 +91,7 @@ function App() {
             )}
             {filteredData && (
                 <UsersList
-                    data={filteredData}
+                    filteredData={filteredData}
                     selected={selected}
                     handleSelect={handleSelect}
                     offset={offset}

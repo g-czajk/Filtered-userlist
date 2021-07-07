@@ -1,7 +1,9 @@
 import "./UsersList.css";
 import SingleUser from "./SingleUser";
 
-const UsersList = ({ data, selected, handleSelect, offset }) => {
+const UsersList = ({ filteredData, selected, handleSelect, offset }) => {
+const data = [...filteredData]
+
     return (
         <ul className="users-list">
             {data &&
